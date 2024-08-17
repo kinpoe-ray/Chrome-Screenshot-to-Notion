@@ -72,9 +72,9 @@
 
 该项目使用了几个关键的 Python 库和框架：
 
-Selenium： 用于网页刮擦和网页截图。
+`Selenium`： 用于网页刮擦和网页截图。
 
-Cloudinary：提供基于云的图片托管服务： 提供基于云的图片托管服务。
+`Cloudinary`：提供基于云的图片托管服务： 提供基于云的图片托管服务。
 
 `Requests`： 用于向 Notion API 提出 HTTP 请求。
 
