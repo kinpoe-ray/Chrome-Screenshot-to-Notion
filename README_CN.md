@@ -21,7 +21,6 @@
         <img alt="License" src="https://img.shields.io/github/license/kinpoe-ray/Chrome-Screenshot-to-Notion.svg"></a>
 </p>
 
-
 <p align="center">
   <!--默认自述为英文-->
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
@@ -34,7 +33,6 @@
 </p>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/kinpoe-ray/Chrome-Screenshot-to-Notion">
     <img src="images/logo.png" >
@@ -90,8 +88,6 @@ Cloudinary：提供基于云的图片托管服务： 提供基于云的图片托
 
 _所有编码都由人工智能驱动。( `Claude` , `ChatGPT` , `Mistral`) )_
 
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
-
 <!-- FEATURES -->
 ## 功能
 
@@ -101,10 +97,6 @@ _所有编码都由人工智能驱动。( `Claude` , `ChatGPT` , `Mistral`) )_
 - 用截图 URL 更新 Notion 页面
 - 执行重试逻辑和错误处理
 - 跟踪已处理的 URL，避免重复
-
-
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## 开始
@@ -138,8 +130,6 @@ _所有编码都由人工智能驱动。( `Claude` , `ChatGPT` , `Mistral`) )_
    pip install webdriver_manager
    ```
 
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
-
 <!-- CONFIGURATION STEPS -->
 ## 配置
 
@@ -152,8 +142,6 @@ _所有编码都由人工智能驱动。( `Claude` , `ChatGPT` , `Mistral`) )_
      - `api_secret`: 你的应用程序接口密码
 
 2. 调整 `max_screenshots` 变量（默认值为 50）
-
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## 使用方法
@@ -169,14 +157,11 @@ python chrome-screenshot-to-notion.py
 2. 为页面中的 URL 截图
 3. 将截图上传到 Cloudinary
 4. 用截图 URL 更新 Notion 页面
-  
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- LOGGING -->
 ## 记录
 
 脚本会将进度和任何错误记录到控制台。如果需要，可以在脚本中调整日志记录级别。
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- ERROR HANDLING -->
 ## 错误处理
@@ -184,14 +169,12 @@ python chrome-screenshot-to-notion.py
 - 脚本实现了 API 调用的重试逻辑
 - 脚本对失败的尝试使用指数式延迟
 - 即使脚本中断，也会保存处理过的 URL，以避免重复
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- LIMITATIONS -->
 ## 局限性
 
 - 脚本设置为无头运行。如果需要在运行时看到浏览器，请修改 Chrome 浏览器选项。
 - 该脚本旨在使用特定的 Notion 页面属性（“file”和 “url”）。根据你的数据库结构进行必要调整
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## 贡献
@@ -206,7 +189,6 @@ python chrome-screenshot-to-notion.py
 3. 提交更改（`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 打开拉取请求
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 ### 贡献最多的人
 
@@ -218,5 +200,3 @@ python chrome-screenshot-to-notion.py
 ## 许可证
 
 MIT License
-
-<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
