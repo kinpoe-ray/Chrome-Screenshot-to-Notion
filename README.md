@@ -64,6 +64,7 @@
   <a href="https://kinpoeray.notion.site/AIGC-Bookmarks-5202cde5c291464eaf61092f824f67ec">
     <img src="images/AIGC-Bookmarks.png" >
   </a>
+</div>
 
 <h3 align="center">Favorite Tools</h3>
 
@@ -72,6 +73,8 @@
   <a href="https://www.notion.so/kinpoeray/My-Favorite-Tools-bb7369c3a5a548dd8cb7d94235498839">
     <img src="images/My-Favorite-Tools.png" >
   </a>
+</div>
+
 ### Built With
 
 This project utilizes several key Python libraries and frameworks:
