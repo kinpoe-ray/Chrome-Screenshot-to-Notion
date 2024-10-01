@@ -60,11 +60,21 @@
 
 <h3 align="center">AIGC bookmarks</h3>
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F2f9bfe61-f42f-4e15-8046-c3d5a6bb62f8%2Fe3e2775a-24d6-4452-af4b-77fbd2c539a2%2F20240815-114-chrome.png?table=block&id=65736ee2-5d36-4138-a117-79c0638a08f4&spaceId=2f9bfe61-f42f-4e15-8046-c3d5a6bb62f8&width=2000&userId=a3e4f707-2b9b-4cd7-87c9-6fa39cb89a52&cache=v2"/>
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://kinpoeray.notion.site/AIGC-Bookmarks-5202cde5c291464eaf61092f824f67ec">
+    <img src="images/AIGC-Bookmarks.png" >
+  </a>
+</div>
 
 <h3 align="center">Favorite Tools</h3>
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F2f9bfe61-f42f-4e15-8046-c3d5a6bb62f8%2Ffb3a84f1-e59e-4f99-a7dd-671df9c8bd99%2F20240815-117-chrome.png?table=block&id=3fa461d4-135a-4f4d-82d2-c27bde918795&spaceId=2f9bfe61-f42f-4e15-8046-c3d5a6bb62f8&width=2000&userId=a3e4f707-2b9b-4cd7-87c9-6fa39cb89a52&cache=v2"/>
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://www.notion.so/kinpoeray/My-Favorite-Tools-bb7369c3a5a548dd8cb7d94235498839">
+    <img src="images/My-Favorite-Tools.png" >
+  </a>
+</div>
 
 ### 技术栈
 
